@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": ">=8.0",
         "dflydev/fig-cookies": "^1.0",
         "psr/http-message": "^1.0"
     },
